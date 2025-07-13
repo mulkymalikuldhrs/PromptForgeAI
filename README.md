@@ -6,6 +6,8 @@
 
 PromptForge AI Specialist is an advanced prompt engineering platform without filters, designed to research, analyze, and enhance AI prompts from various sources. The platform provides powerful tools for prompt creation, testing, and management with premium features for subscribers.
 
+Specializing in unfiltered leaked prompts, NSFW prompts, and everything about prompts - this is the ultimate tool for prompt engineering without limitations.
+
 ## 🔗 Key Features
 
 ### 1. Prompt Engine & AI Specialist
